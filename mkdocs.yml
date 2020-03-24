@@ -1,0 +1,28 @@
+site_name: "Corona Fakten"
+copyright: 'Urheberrecht liegt bei den <a href="https://github.com/corona-fakten/corona-fakten.github.io/graphs/contributors?type=a">"corona-fakten" Autoren</a> und lizensiert unter der <a href="/lizenz/">CC-BY-SA 3.0 DE</a> | <a href="/impressum/">Impressum</a> | <a href="/datenschutzerklaerung/">Datenschutzerklärung</a>'
+theme:
+  name: 'material'
+  font: false
+  language: 'de'
+repo_url: 'https://github.com/corona-fakten/corona-fakten.github.io'
+repo_name: 'GitHub'
+remote_branch: 'source'
+edit_uri: 'edit/source/docs/'
+markdown_extensions:
+  - footnotes
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
