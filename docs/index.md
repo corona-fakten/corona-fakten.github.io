@@ -13,3 +13,4 @@ Wikipedia möglich und wird auf der [Mitmachen](/mitmachen.md)-Seite beschrieben
 ## Informationsquellen
 
 - [Welche Live-Blogs gibt es?](./welche-live-blogs-gibt-es.md)
+- [Wo gibt es aktuelle Statistiken?](./wo-gibt-es-aktuelle-statistiken.md)
