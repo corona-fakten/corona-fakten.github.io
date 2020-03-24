@@ -10,8 +10,8 @@ Das RKI (Robert Koch Institut) veröffentlicht täglich eine Situationsbericht m
 
 #### ESRI
 
-Laut esri Deutschland [^2] hat das RKI zugestimmt die aktuellen Zahlen grafisch unter <https://corona.rki.de/> zu visualisieren. Dort
-findet man auch den aktuellen Stand je Bundesländer und für die Landkreise.
+Das RKI hat die Visualisierung von esri Deutschland unter <https://corona.rki.de/> verlinkt. Esri visualisiert dort den aktuellen
+Stand der Fallzahlen (Bundesländer, Landkreise, Deutschlandweit), jedoch ohne Histori
 
 #### Berliner Morgenpost: Coronavirus-Monitor
 
@@ -27,4 +27,3 @@ genutzt.
 Es offizielle Daten von WHO <https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd> und ECDC <https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea>.
 
 [^1]: https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Gesamt.html
-
