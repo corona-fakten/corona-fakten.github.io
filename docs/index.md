@@ -6,7 +6,7 @@ title: Corona Fakten
 
     Diese Seite befindet sich noch im Aufbau.
 
-Sie wurde geschaffen, um Informationen/Fakten zum Corona-Virus zu sammeln und mit Quellen zu belegen, sodass Fake News und
+Dies ist eine private Internetseite. Sie wurde geschaffen, um Informationen/Fakten zum Corona-Virus zu sammeln und mit Quellen zu belegen, sodass Fake News und
 Panikmache mit simplen Fakten wiederlegt werden können. Die Teilnahme und das Beisteuern von Inhalten ist ähnlich wie bei
 Wikipedia möglich und wird auf der [Mitmachen](/mitmachen.md)-Seite beschrieben.
 
