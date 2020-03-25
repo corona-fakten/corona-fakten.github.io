@@ -8,6 +8,7 @@ Es gibt viele Quellen die regelmäßig (teilweise im Minutenabstand) berichten. 
 
 - [Tagesschau](https://www.tagesschau.de/newsticker/coronavirus-liveblog-105.html)
 - [SWR](https://www.swr.de/swraktuell/rheinland-pfalz/liveblog-corona-100~_detailPage-1_-dc56264c3eed6f7453c3f263012a8308a11ab691.html)
+- [ZDF](https://www.zdf.de/nachrichten/politik/blog-coronavirus-102.html)
 
 Privat:
 
