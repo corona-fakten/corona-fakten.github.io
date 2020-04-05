@@ -5,6 +5,9 @@ theme:
   name: 'material'
   font: false
   language: 'de'
+  custom_dir: 'theme'
+  palette:
+    primary: 'purple'
 repo_url: 'https://github.com/corona-fakten/corona-fakten.github.io'
 repo_name: 'GitHub'
 remote_branch: 'source'
