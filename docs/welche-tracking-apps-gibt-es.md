@@ -1,5 +1,5 @@
 ---
-title: Welche Tracking Appa gibt es?
+title: Welche Tracking Apps gibt es?
 ---
 
 Mit sogenannten Corona Tracking Apps soll der Kontakt mit Coronainfizerten im Nachhinein visualisiert werden. Das ist nicht zu verwechseln mit dem Ansatz über die Mobilfunkbewegungsdaten der User zu evaluieren, ob sich die Mehrheit der Leute an die Bitte halten zuhause zu bleiben.
