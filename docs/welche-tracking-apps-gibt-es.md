@@ -13,6 +13,10 @@ Dazu gibt es unterschiedliche Ansätze:
 
 Derzeit wird an einigen Apps gearbeitet, die via Bluetooth "merken" wann man sich mit wem getroffen hat. Teils komplett anonymisiert und damit vermutlich datenschutzrechtlich unbedenklich. Im Fall einer Infektion kann so jeder benachrichtigt werden, der Kontakt mit dieser Person hatte. Weitere Details zu den Apps fügen wir hiet demnächst ein.
 
+* [pepp-pt](https://www.pepp-pt.org/) (vom Heinrich-Hertz-Institut, in der internen Testphase, Stand 5.4.2020)
+
+Netzpolitik hat die Ansätze (technologisch sowie Datenschutzrechtlich) unter die Lupe genommen[^3].
+
 ## Auswerten der Handybewegungen
 
 Die Internet- und Mobilfunkanbieter haben technisch die Möglichkeit Bewegungsprofile der Nutzer anzulegen. Dieser Ansatz könnte ohne Mithilfe der Bevölkerung durchgeführt werden. Ist aber datenschutzrechtlich bedenklich. Die Telekom liefere z.B. anonyme Handy Daten an das Robert Koch Institut [^1] und stellt die Firma aber einige Tage später ein [^2].
@@ -20,3 +24,4 @@ Die Internet- und Mobilfunkanbieter haben technisch die Möglichkeit Bewegungspr
 
 [^1]: https://www.sueddeutsche.de/digital/coronavirus-telekom-smartphone-tracking-datenschutz-1.4850094
 [^2]: https://www.spiegel.de/wirtschaft/unternehmen/motionlogic-deutsche-telekom-stellt-firma-hinter-corona-handydaten-ein-a-90fbe9a3-08cb-4011-a995-96f6449bc4bd
+[^3]: https://netzpolitik.org/2020/corona-tracking-datenschutz-kein-notwendiger-widerspruch/
