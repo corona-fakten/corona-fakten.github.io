@@ -8,10 +8,16 @@ theme:
   custom_dir: 'theme'
   palette:
     primary: 'purple'
+  static_templates:
+    - service-worker.js
 repo_url: 'https://github.com/corona-fakten/corona-fakten.github.io'
 repo_name: 'GitHub'
 remote_branch: 'source'
 edit_uri: 'edit/source/docs/'
+extra:
+  manifest: 'manifest.webmanifest'
+extra_javascript:
+  - 'assets/js/main.js'
 markdown_extensions:
   - footnotes
   - pymdownx.arithmatex

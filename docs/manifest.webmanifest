@@ -1,0 +1,22 @@
+{
+  "short_name": "Corona Fakten",
+  "name": "Corona Fakten",
+  "description": "Eine private Internetseite zum sammeln von Informationen und Fakten zu COVID-19 - dem Coronavirus.",
+  "icons": [
+    {
+      "src": "/assets/images/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/images/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ab47bc",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ab47bc"
+}
