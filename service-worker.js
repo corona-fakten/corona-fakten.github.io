@@ -1,4 +1,4 @@
-const CACHE_NAME = "mysite-static-v2020-10-12 08:24:49";
+const CACHE_NAME = "mysite-static-v2020-10-12 08:25:21";
 
 // Files to cache
 var appShellFiles = [
