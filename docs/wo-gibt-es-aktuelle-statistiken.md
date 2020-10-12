@@ -24,7 +24,7 @@ genutzt.
 
 #### Tagesspiegel Innerdeutsche Risikogebiete
 
-Unter < https://interaktiv.tagesspiegel.de/lab/innerdeutsche-risikogebiete-corona/> hat der Tagesspiegel visualisiert, welche Einreisebeschränkungen
+Unter <https://interaktiv.tagesspiegel.de/lab/innerdeutsche-risikogebiete-corona/> hat der Tagesspiegel visualisiert, welche Einreisebeschränkungen
 und Beherbergungsverbote innerdeutsch gelten.
 
 ## Weltweit
