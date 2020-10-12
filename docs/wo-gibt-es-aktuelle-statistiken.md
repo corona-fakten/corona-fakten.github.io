@@ -22,6 +22,11 @@ andere Datenquellen genutzt.
 Für Berlin, NRW, Thüringen und Niedersachsen werdem zusätzlich die Zahlen der länderspezifischen Gesundheitsministerien bzw des LaSeGos
 genutzt.
 
+#### Tagesspiegel Innerdeutsche Risikogebiete
+
+Unter < https://interaktiv.tagesspiegel.de/lab/innerdeutsche-risikogebiete-corona/> hat der Tagesspiegel visualisiert, welche Einreisebeschränkungen
+und Beherbergungsverbote innerdeutsch gelten.
+
 ## Weltweit
 
 Es offizielle Daten von WHO <https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd> und ECDC <https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea>.
